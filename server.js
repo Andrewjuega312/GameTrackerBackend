@@ -126,3 +126,4 @@ async function limpiarDuplicados() {
     console.log(`Personales: borrados duplicados (${aBorrarPersonales.length}).`);
   }
 }
+// Segundo commit
